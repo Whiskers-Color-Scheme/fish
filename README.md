@@ -17,7 +17,7 @@
     ```
     mkdir -p ~/.config/fish/themes
     cd ~/.config/fish/themes
-    curl -o Whiskers-Panther.theme https://raw.githubusercontent.com/Whiskers-Color-Scheme/fish/master/src/panther.theme
+    curl -o Whiskers-Panther.theme https://raw.githubusercontent.com/Whiskers-Color-Scheme/fish/master/src/Whiskers-Panther.theme
     ```
 
 - Apply the theme
@@ -30,7 +30,7 @@
     ```
     mkdir -p ~/.config/fish/themes
     cd ~/.config/fish/themes
-    curl -o Whiskers-Panther.theme https://raw.githubusercontent.com/Whiskers-Color-Scheme/fish/master/src/tiger.theme
+    curl -o Whiskers-Panther.theme https://raw.githubusercontent.com/Whiskers-Color-Scheme/fish/master/src/Whiskers-Tiger.theme
     ```
 
 - Apply the theme
